@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Wenhao Zhan 
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{120}{190}{https://whzhan99.github.io/index.html}
+I am a Ph.D. student at [https://ece.princeton.edu/ Princeton University] advised by Professor [https://jasondlee88.github.io/index.html Jason D. Lee] and [https://yuxinchen2020.github.io/ Yuxin Chen].\n
+Before that, I received my Bachelor's Degree in Electronic Engineering from [https://www.tsinghua.edu.cn/en/ Tsinghua University].\n
+\n
+*Contact*: Friend Center 301, Princeton, NJ.\n
+*Email*: wenhao.zhan@princeton.edu
+~~~
+
+
+== Research
+My research interests include 
+- Reinforcement Learning 
+- Distributed Statistical Estimation and Learning
+
+=== Publications 
+. W. Zhan, B. Huang, A. Huang, N. Jiang, J. D. Lee, [https://arxiv.org/abs/2202.04634 \"Offline Reinforcement Learning with Realizability and Single-policy Concentrability\"], 2022.
+. W. Zhan\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], 2021. (*=equal contributions)
+. C. Z. Lee, L. P. Barnes, W. Zhan, A. Özgür, [https://ieeexplore.ieee.org/document/9685768 \"Over-the-Air Statistical Estimation of Sparse Models\"], GLOBECOM 2021.
+. W. Zhan, H. Tang, J. Wang, [https://ieeexplore.ieee.org/abstract/document/9379559 \"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power Constraint\"], BMSB 2020.
+
