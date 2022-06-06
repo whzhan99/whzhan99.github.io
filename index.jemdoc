@@ -17,6 +17,7 @@ My research interests include
 - Distributed Statistical Estimation and Learning
 
 === Publications 
+. W. Zhan, J. D. Lee, Z. Yang, [https://arxiv.org/abs/2206.01588 \"Decentralized Optimistic Hyperpolicy Mirror Descent: Provably No-Regret Learning in Markov Games\"], 2022.
 . W. Zhan, B. Huang, A. Huang, N. Jiang, J. D. Lee, [https://arxiv.org/abs/2202.04634 \"Offline Reinforcement Learning with Realizability and Single-policy Concentrability\"], 2022.
 . W. Zhan\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], 2021. (*=equal contributions)
 . C. Z. Lee, L. P. Barnes, W. Zhan, A. Özgür, [https://ieeexplore.ieee.org/document/9685768 \"Over-the-Air Statistical Estimation of Sparse Models\"], GLOBECOM 2021.
