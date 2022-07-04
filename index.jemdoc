@@ -16,10 +16,12 @@ My research interests include
 - Reinforcement Learning 
 - Distributed Statistical Estimation and Learning
 
-=== Publications 
+=== Preprints
 . W. Zhan, J. D. Lee, Z. Yang, [https://arxiv.org/abs/2206.01588 \"Decentralized Optimistic Hyperpolicy Mirror Descent: Provably No-Regret Learning in Markov Games\"], 2022.
-. W. Zhan, B. Huang, A. Huang, N. Jiang, J. D. Lee, [https://arxiv.org/abs/2202.04634 \"Offline Reinforcement Learning with Realizability and Single-policy Concentrability\"], 2022.
 . W. Zhan\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], 2021. (*=equal contributions)
+
+=== Publications 
+. W. Zhan, B. Huang, A. Huang, N. Jiang, J. D. Lee, [https://arxiv.org/abs/2202.04634 \"Offline Reinforcement Learning with Realizability and Single-policy Concentrability\"], COLT 2022.
 . C. Z. Lee, L. P. Barnes, W. Zhan, A. Özgür, [https://ieeexplore.ieee.org/document/9685768 \"Over-the-Air Statistical Estimation of Sparse Models\"], GLOBECOM 2021.
 . W. Zhan, H. Tang, J. Wang, [https://ieeexplore.ieee.org/abstract/document/9379559 \"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power Constraint\"], BMSB 2020.
 
