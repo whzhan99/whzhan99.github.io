@@ -17,9 +17,10 @@ My research interests include
 - Statistics
 
 === Publications
-*(\*=equal contribution)*
+*(\* = equal contribution, \+ = equal contribution and random order)*
 . W. Zhan, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2305.18505 \"Provable Reward-Agnostic Preference-Based Reinforcement Learning\"], 2023. Preprint.
 . W. Zhan\*, M. Uehara\*, N. Kallus, J. D. Lee, W. Sun, [https://arxiv.org/abs/2305.14816 \"Provable Offline Preference-Based Reinforcement Learning\"], 2023. Preprint.
+. Y. Zhao\+, W. Zhan\+, X. Hu\+, H. Leung, F. Farnia, W. Sun, J. D. Lee, [https://arxiv.org/abs/2311.11965 \"Provably Efficient CVaR RL in Low-rank MDPs\"], 2023. Preprint.
 . G. Li\*, W. Zhan\*, J. D. Lee, Y. Chi, Y. Chen, [https://arxiv.org/abs/2305.10282 \"Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning\"], accepted to Neurips 2023. 
 . W. Zhan\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], SIAM Journal on Optimization, 2023.
 . W. Zhan, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2207.05738 \"PAC Reinforcement Learning for Predictive State Representations\"], ICLR 2023.
