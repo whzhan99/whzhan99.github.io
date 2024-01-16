@@ -18,10 +18,11 @@ My research interests include
 
 === Publications
 *(\* = equal contribution, \+ = equal contribution and random order)*
-. W. Zhan, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2305.18505 \"Provable Reward-Agnostic Preference-Based Reinforcement Learning\"], 2023. Preprint.
-. W. Zhan\*, M. Uehara\*, N. Kallus, J. D. Lee, W. Sun, [https://arxiv.org/abs/2305.14816 \"Provable Offline Preference-Based Reinforcement Learning\"], 2023. Preprint.
-. Y. Zhao\+, W. Zhan\+, X. Hu\+, H. Leung, F. Farnia, W. Sun, J. D. Lee, [https://arxiv.org/abs/2311.11965 \"Provably Efficient CVaR RL in Low-rank MDPs\"], 2023. Preprint.
-. G. Li\*, W. Zhan\*, J. D. Lee, Y. Chi, Y. Chen, [https://arxiv.org/abs/2305.10282 \"Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning\"], accepted to Neurips 2023. 
+. Z. Zhang, W. Zhan, Y. Chen, S. S. Du, J. D. Lee, [https://arxiv.org/abs/2312.05134 \"Optimal Multi-Distribution Learning\"], Preprint.
+. W. Zhan, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2305.18505 \"Provable Reward-Agnostic Preference-Based Reinforcement Learning\"], accepted to ICLR 2024 *Spotlight*.
+. W. Zhan\*, M. Uehara\*, N. Kallus, J. D. Lee, W. Sun, [https://arxiv.org/abs/2305.14816 \"Provable Offline Preference-Based Reinforcement Learning\"], accepted to ICLR 2024 *Spotlight*.
+. Y. Zhao\+, W. Zhan\+, X. Hu\+, H. Leung, F. Farnia, W. Sun, J. D. Lee, [https://arxiv.org/abs/2311.11965 \"Provably Efficient CVaR RL in Low-rank MDPs\"], accepted to ICLR 2024.
+. G. Li\*, W. Zhan\*, J. D. Lee, Y. Chi, Y. Chen, [https://arxiv.org/abs/2305.10282 \"Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning\"], Neurips 2023. 
 . W. Zhan\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], SIAM Journal on Optimization, 2023.
 . W. Zhan, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2207.05738 \"PAC Reinforcement Learning for Predictive State Representations\"], ICLR 2023.
 . W. Zhan, J. D. Lee, Z. Yang, [https://arxiv.org/abs/2206.01588 \"Decentralized Optimistic Hyperpolicy Mirror Descent: Provably No-Regret Learning in Markov Games\"], ICLR 2023.
@@ -30,4 +31,5 @@ My research interests include
 . W. Zhan, H. Tang, J. Wang, [https://ieeexplore.ieee.org/abstract/document/9379559 \"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power Constraint\"], BMSB 2020.
 
 == Teaching
-- Fall 2022: Theory of Weakly Supervised Learning, as TA (Princeton, Instructor: Prof. [https://jasondlee88.github.io/index.html Jason D. Lee])
+- Spring 2024: Foundations of Reinforcement Learning, as TA (Princeton, Instructor: Prof. Chi Jin).
+- Fall 2022: Theory of Weakly Supervised Learning, as TA (Princeton, Instructor: Prof. Jason D. Lee).
