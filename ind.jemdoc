@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Wenhao Zhan 
+
+~~~
+{}{img_left}{photos/mimikyu.jpg}{alt text}{150}{200}{https://whzhan99.github.io/index.html}
+I am a Ph.D. student at [https://ece.princeton.edu/ Princeton University] advised by Professor [https://jasondlee88.github.io/index.html Jason D. Lee] and [https://yuxinchen2020.github.io/ Yuxin Chen].\n
+Before that, I received my Bachelor's Degree in Electronic Engineering from [https://www.tsinghua.edu.cn/en/ Tsinghua University].\n
+\n
+*Office*: Friend Center 306, Princeton, NJ.\n
+*Email*: wenhao.zhan@princeton.edu \n
+[https://scholar.google.com/citations?user=o42MH0MAAAAJ&hl=en *Google Scholar*]
+~~~
+
+
+== Research
+My research interests include 
+- Reinforcement Learning
+- Statistics
+
+=== Publications
+*(\* = equal contribution, \+ = equal contribution and random order)*
+
+. *W. Zhan*, S. Fujimoto, Z. Zhu, J. D. Lee, D. R. Jiang, Y. Efroni, [https://arxiv.org/abs/2410.01101 \"Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank\"], Preprint.
+. A. Huang, *W. Zhan*, T. Xie, J. D. Lee, W. Sun, A. Krishnamurthy, D. J. Foster, [https://arxiv.org/abs/2407.13399 \"Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-squared Preference Optimization\"], Preprint.
+. Z. Gao, *W. Zhan*, J. D. Chang, G. Swamy, K. Brantley, J. D. Lee, W. Sun, \"Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF\", Preprint.
+. J. D. Chang\*, *W. Zhan*\*, O. Oertell, K. Brantley, D. Misra, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.08495 \"Dataset Reset Policy Optimization for RLHF\"], Preprint.
+. Z. Gao, J. D. Chang, *W. Zhan*, O. Oertell, G. Swamy, K. Brantley, T. Joachims, J. A. Bagnell, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.16767 \"REBEL: Reinforcement Learning via Regressing Relative Rewards\"], Accepted by Neurips 2024.
+. Z. Zhang, *W. Zhan*, Y. Chen, S. S. Du, J. D. Lee, [https://arxiv.org/abs/2312.05134 \"Optimal Multi-Distribution Learning\"], COLT 2024.
+. *W. Zhan*, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2305.18505 \"Provable Reward-Agnostic Preference-Based Reinforcement Learning\"], ICLR 2024 *Spotlight*.
+. *W. Zhan*\*, M. Uehara\*, N. Kallus, J. D. Lee, W. Sun, [https://arxiv.org/abs/2305.14816 \"Provable Offline Preference-Based Reinforcement Learning\"], ICLR 2024 *Spotlight*.
+. Y. Zhao\+, *W. Zhan*\+, X. Hu\+, H. Leung, F. Farnia, W. Sun, J. D. Lee, [https://arxiv.org/abs/2311.11965 \"Provably Efficient CVaR RL in Low-rank MDPs\"], ICLR 2024.
+. G. Li\*, *W. Zhan*\*, J. D. Lee, Y. Chi, Y. Chen, [https://arxiv.org/abs/2305.10282 \"Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning\"], Neurips 2023. 
+. *W. Zhan*\*, S. Cen\*, B. Huang, Y. Chen, J. D. Lee, Y. Chi, [https://arxiv.org/abs/2105.11066 \"Policy Mirror Descent for Regularized Reinforcement Learning: A Generalized Framework with Linear Convergence\"], SIAM Journal on Optimization, 2023.
+. *W. Zhan*, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2207.05738 \"PAC Reinforcement Learning for Predictive State Representations\"], ICLR 2023.
+. *W. Zhan*, J. D. Lee, Z. Yang, [https://arxiv.org/abs/2206.01588 \"Decentralized Optimistic Hyperpolicy Mirror Descent: Provably No-Regret Learning in Markov Games\"], ICLR 2023.
+. *W. Zhan*, B. Huang, A. Huang, N. Jiang, J. D. Lee, [https://arxiv.org/abs/2202.04634 \"Offline Reinforcement Learning with Realizability and Single-policy Concentrability\"], COLT 2022.
+. C. Z. Lee, L. P. Barnes, *W. Zhan*, A. Özgür, [https://ieeexplore.ieee.org/document/9685768 \"Over-the-Air Statistical Estimation of Sparse Models\"], GLOBECOM 2021.
+. *W. Zhan*, H. Tang, J. Wang, [https://ieeexplore.ieee.org/abstract/document/9379559 \"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power Constraint\"], BMSB 2020.
+
+== Working
+=== Meta
+*Research Intern*\n 
+Jun 2024 -- Sep 2024 \n
+/Efficient Multi-Agent Offline Reinforcement Learning/
+
+== Teaching
+- Spring 2024: Foundations of Reinforcement Learning, as TA (Princeton, Instructor: Prof. Chi Jin).
+- Fall 2022: Theory of Weakly Supervised Learning, as TA (Princeton, Instructor: Prof. Jason D. Lee).
+
+== Honors
+- 2024 Award for Excellence awarded by Princeton SEAS
+- Honorable mention for the 2023 Jane Street Graduate Research Fellowship
