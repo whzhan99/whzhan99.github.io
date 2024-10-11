@@ -22,7 +22,7 @@ My research interests include
 
 . *W. Zhan*, S. Fujimoto, Z. Zhu, J. D. Lee, D. R. Jiang, Y. Efroni, [https://arxiv.org/abs/2410.01101 \"Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank\"], Preprint.
 . A. Huang, *W. Zhan*, T. Xie, J. D. Lee, W. Sun, A. Krishnamurthy, D. J. Foster, [https://arxiv.org/abs/2407.13399 \"Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-squared Preference Optimization\"], Preprint.
-. Z. Gao, *W. Zhan*, J. D. Chang, G. Swamy, K. Brantley, J. D. Lee, W. Sun, \"Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF\", Preprint.
+. Z. Gao, *W. Zhan*, J. D. Chang, G. Swamy, K. Brantley, J. D. Lee, W. Sun, [https://arxiv.org/abs/2410.04612 \"Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF\"], Preprint.
 . J. D. Chang\*, *W. Zhan*\*, O. Oertell, K. Brantley, D. Misra, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.08495 \"Dataset Reset Policy Optimization for RLHF\"], Preprint.
 . Z. Gao, J. D. Chang, *W. Zhan*, O. Oertell, G. Swamy, K. Brantley, T. Joachims, J. A. Bagnell, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.16767 \"REBEL: Reinforcement Learning via Regressing Relative Rewards\"], Accepted by Neurips 2024.
 . Z. Zhang, *W. Zhan*, Y. Chen, S. S. Du, J. D. Lee, [https://arxiv.org/abs/2312.05134 \"Optimal Multi-Distribution Learning\"], COLT 2024.
