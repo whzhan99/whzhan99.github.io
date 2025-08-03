@@ -13,13 +13,13 @@ Before that, I received my Bachelor's Degree in Electronic Engineering from [htt
 
 
 == Publications
-*(\* = equal contribution, \+ = equal contribution and random order)*
-
+*(\* = equal contribution, \+ = equal contribution and random order, \# = equal contributions and ordered alphabetically)*
+. K. Brantley, M. Chen\#, Z. Gao\#, J. D. Lee, W. Sun, *W. Zhan*\#, X. Zhang, [https://arxiv.org/abs/2505.20686 \"Accelerating RL for LLM Reasoning with Optimal Advantage Regression\"], Preprint.
 . *W. Zhan*, S. Fujimoto, Z. Zhu, J. D. Lee, D. R. Jiang, Y. Efroni, [https://arxiv.org/abs/2410.01101 \"Exploiting Structure in Offline Multi-Agent RL: The Benefits of Low Interaction Rank\"], ICLR 2025.
 . A. Huang, *W. Zhan*, T. Xie, J. D. Lee, W. Sun, A. Krishnamurthy, D. J. Foster, [https://arxiv.org/abs/2407.13399 \"Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-squared Preference Optimization\"], ICLR 2025 *Spotlight*.
 . Z. Gao, *W. Zhan*, J. D. Chang, G. Swamy, K. Brantley, J. D. Lee, W. Sun, [https://arxiv.org/abs/2410.04612 \"Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF\"], ICLR 2025.
 . J. D. Chang\*, *W. Zhan*\*, O. Oertell, K. Brantley, D. Misra, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.08495 \"Dataset Reset Policy Optimization for RLHF\"], Preprint.
-. Z. Gao, J. D. Chang, *W. Zhan*, O. Oertell, G. Swamy, K. Brantley, T. Joachims, J. A. Bagnell, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.16767 \"REBEL: Reinforcement Learning via Regressing Relative Rewards\"], Accepted by Neurips 2024.
+. Z. Gao, J. D. Chang, *W. Zhan*, O. Oertell, G. Swamy, K. Brantley, T. Joachims, J. A. Bagnell, J. D. Lee, W. Sun, [https://arxiv.org/abs/2404.16767 \"REBEL: Reinforcement Learning via Regressing Relative Rewards\"], Neurips 2024.
 . Z. Zhang, *W. Zhan*, Y. Chen, S. S. Du, J. D. Lee, [https://arxiv.org/abs/2312.05134 \"Optimal Multi-Distribution Learning\"], COLT 2024.
 . *W. Zhan*, M. Uehara, W. Sun, J. D. Lee, [https://arxiv.org/abs/2305.18505 \"Provable Reward-Agnostic Preference-Based Reinforcement Learning\"], ICLR 2024 *Spotlight*.
 . *W. Zhan*\*, M. Uehara\*, N. Kallus, J. D. Lee, W. Sun, [https://arxiv.org/abs/2305.14816 \"Provable Offline Preference-Based Reinforcement Learning\"], ICLR 2024 *Spotlight*.
@@ -33,10 +33,14 @@ Before that, I received my Bachelor's Degree in Electronic Engineering from [htt
 . *W. Zhan*, H. Tang, J. Wang, [https://ieeexplore.ieee.org/abstract/document/9379559 \"Delay Optimal Cross-Layer Scheduling Over Markov Channels with Power Constraint\"], BMSB 2020.
 
 == Working
-=== Meta
+=== Meta Ranking
 *Research Intern*\n 
 May 2024 -- Oct 2024 \n
 /Efficient Multi-Agent Offline Reinforcement Learning/
+=== Meta GenAI
+*Research Intern*\n 
+Jun 2025 -- Present \n
+/Reinforcement Learning For Tool-Integrated Reasoning Models/
 
 == Teaching
 - Spring 2024: Foundations of Reinforcement Learning, as TA (Princeton, Instructor: Prof. Chi Jin).
@@ -45,3 +49,8 @@ May 2024 -- Oct 2024 \n
 == Honors
 - 2024 Award for Excellence awarded by Princeton SEAS
 - Honorable mention for the 2023 Jane Street Graduate Research Fellowship
+
+== Invited Talk
+- *Optimal Multi-Distribution Learning
+Adaptive Learning in Complex Environments*\n
+/TTIC Chicago Summer Workshop 2024/
